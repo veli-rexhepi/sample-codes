@@ -4,4 +4,4 @@ Since now, on this project next mentioned modules were implemented: Snowfire Bea
 
 User management part is completed and full functional while, services required from Municipality are in progres.
 
-# Please note that this project is in development processCorre so, disabled codes may found and the code may be subject of changes.
+# Please note that this project is in development process. Disabled codes may found and some code may be subject of changes.
