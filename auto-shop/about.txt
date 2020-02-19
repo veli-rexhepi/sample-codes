@@ -1,1 +1,1 @@
-
+This project was develpped to manage selling/buying of vehicles, managing system users, registered clients and unregistered visitors.
